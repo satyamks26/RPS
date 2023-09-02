@@ -1,0 +1,23 @@
+
+body {
+
+    background-image: url(painting-mountain-lake-with-mountain-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.Aa {
+    position: relative;
+    left: 600px;
+    color: skyblue;
+    width: 100px;
+    height: 50px;
+    background-color: darkmagenta;
+    
+
+}
+.Ab {
+    text-align: center;
+}
